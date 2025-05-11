@@ -1,2 +1,2 @@
 # Anime
-Goku info.
+Goku info

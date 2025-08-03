@@ -3,6 +3,7 @@
 **SaiyanVerse** is a fan-made Dragon Ball Z–themed website built using HTML, CSS, and JavaScript. It celebrates the legendary warrior Son Goku with a visually striking interface, rich lore, and character highlights.
 
 ---
+![Portfolio Preview](assets/preview.jpg)
 
 ## ⚡ Features
 
